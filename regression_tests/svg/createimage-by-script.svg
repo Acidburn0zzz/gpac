@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" 
-     width="100%" height="100%" viewBox="0 0 800 600" >
- <script>
-<![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" baseProfile="tiny" version="1.2" viewBox="0 0 800 600"><script><![CDATA[
     var svgNS = "http://www.w3.org/2000/svg";
     var xlinkNS = "http://www.w3.org/1999/xlink";
     
@@ -11,6 +7,4 @@
     image.setAttribute("height", "100");
     image.setAttributeNS(xlinkNS, "href", "http://www.telecom-paristech.fr/fileadmin/maquette/images/logo-haut-droit.png");
     document.documentElement.appendChild(image);
-  ]]>
- </script>
-</svg>
+  ]]></script></svg>
